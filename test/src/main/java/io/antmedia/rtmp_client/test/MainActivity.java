@@ -3,7 +3,6 @@ package io.antmedia.rtmp_client.test;
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.example.namespace.R;
 
 public class MainActivity extends Activity {
 
